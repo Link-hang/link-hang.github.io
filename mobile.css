@@ -29,6 +29,7 @@ body.dark-mode {
     max-width: 400px; /* 限制最大宽度 */
     text-align: center;
     transition: background-color 0.3s ease, color 0.3s ease;
+    margin: 0 auto; /* 确保容器居中 */
 }
 
 body.dark-mode .container {
